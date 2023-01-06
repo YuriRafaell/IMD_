@@ -1,0 +1,13 @@
+Exercício 2
+Escreva um programa que irá receber dois números reais, calcula a média aritmética e imprime o resultado ao final.
+
+
+
+escreva "Diga um número real"
+var n1 := leia_real
+
+escreva "Outro número real"
+var n2 := leia_real
+
+var media := (n1+n2)/2
+imprima "{media}"

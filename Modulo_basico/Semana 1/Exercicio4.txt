@@ -1,0 +1,15 @@
+Exercício 4
+Escreva um programa que irá receber dois números, calcula a média aritmética e que ao final
+escreve a frase “A sua média foi de ? em lógica de programação”. Substitua a interrogação
+pela média calculada.
+
+
+
+escreva "Qual sua nota da U1?"
+var n1 := leia_real
+
+escreva "Qual sua nota da U2?"
+var n2 := leia_real
+
+var m := (n1+n2)/2
+escreva "A sua média foi de {m} em lógica de programação"

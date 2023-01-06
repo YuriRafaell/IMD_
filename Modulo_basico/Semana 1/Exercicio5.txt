@@ -1,0 +1,14 @@
+Exercício 5
+Implemente um programa que realizará o seguinte cálculo:
+média = (nota1 * 2 + nota2 * 3)/5
+Ao final, o programa deve apresentar a média calculada.
+
+
+escreva "Diga a nota 1:"
+var nota1 := leia_real
+
+escreva "diga a nota 2:"
+var nota2 := leia_real
+
+var media = (nota1 * 2 + nota2 * 3) / 5
+escreva "{media}"

@@ -1,0 +1,14 @@
+Exercício 8
+Escreva um programa que recebe um número inteiro e verifica se ele é par ou ímpar. Se o
+número for par, o programa deve apresentar a mensagem par, se for ímpar a mensagem
+apresentada é ímpar. O seu programa não precisa preocupar-se com o valor zero.
+
+
+escreva "Digite um número"
+var n := leia_inteiro
+
+se n mod 2 == 0 entao
+      escreva "par"
+senao
+       escreva "ímpar"
+fim
