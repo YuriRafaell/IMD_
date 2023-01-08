@@ -24,8 +24,8 @@
         </tr>
         <tr>
           <td align="center">Semana 2</td>
-          <td align="center"><a href="#">Código</a></td>
-          <td align="center">❌</td>
+          <td align="center"><a href="https://github.com/SteffanyJennyfer/IMD_/tree/main/Modulo_basico/Semana%202">Código</a></td>
+          <td align="center">✔️</td>
         </tr>
         <tr>
           <td align="center">Semana 3</td>
